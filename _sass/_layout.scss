@@ -15,11 +15,9 @@
     margin-bottom: 0.75em;
     @include bp-small {
       display: inline-block;
-      padding-right: 1em;
     }
     @include bp-medium {
       display: inline-block;
-      padding-right: 1em;
     }
   }
   i {
