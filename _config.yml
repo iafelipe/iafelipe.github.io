@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Software Developer from Chicago.
-url:                 http://jamigibbs.com
+title:               Igor Felipe
+# tagline:           
+url:                 "https://iafelipe.github.io"
 paginate:            1
 baseurl:             ""
 
@@ -17,20 +17,17 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Igor Felipe
+  email:             igorafelipe@gmail.com
+  # url:     
 
 # Custom vars
 version:             2.0.1
-github:
-  repo:              https://github.com/jamigibbs/portfolio
-google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+github:              iafelipe
+linkedin:            igorafelipe
+# google_analytics:    UA-3363703-15
 
 # Gems
 plugins:
-  # - jekyll-paginate
-  # - jekyll-gist
+  - jekyll-paginate
+  - jekyll-gist

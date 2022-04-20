@@ -3,6 +3,7 @@
 // Headings, body text, lists, and other misc typographic elements.
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: $root-font-family;
   margin-bottom: .5rem;
   font-weight: 600;
   line-height: 1.25;
@@ -11,7 +12,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.6rem;
+  text-align: center;
 }
 
 h2 {
@@ -30,6 +32,7 @@ h4, h5, h6 {
 }
 
 p {
+  text-align: justify;
   color: $gray-1;
   margin-top: 0;
   margin-bottom: 1rem;
@@ -115,4 +118,8 @@ a[href^="#fnref:"] {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+}
+
+.second-font {
+  font-family: 'Nova Mono', monospace;
 }

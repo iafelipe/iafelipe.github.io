@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Igor Felipe</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-04-20T12:52:06-03:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Igor Felipe</name>
+   <email>igorafelipe@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Disturbance</title>
+   <link href="http://localhost:4000/2022/03/31/disturbance/"/>
+   <updated>2022-03-31T00:00:00-03:00</updated>
+   <id>http://localhost:4000/2022/03/31/disturbance</id>
+   <content type="html">&lt;p&gt;This is my undergraduate research project currently being developed in the Department of Ecology and Evolutionary Biology (UFSCar). In this project we explore how different disturbance regimes influence the success of biological invasions at dynamic landscapes.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
